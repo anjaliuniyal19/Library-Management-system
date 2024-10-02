@@ -6,12 +6,7 @@ A simple Library Management System built using HTML, CSS, JavaScript, PHP, and M
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Database Structure](#database-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- 
+  
 ## Features
 
 - Librarians can be given their authorized login ID and password without which the system can not be accessed.
