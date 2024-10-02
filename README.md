@@ -1,12 +1,35 @@
-<B>Library Management System<B>
-<hr>
-<b>Features</b>
+# Library Management System
 
-<Ul>
-<li>Librarians can be given their authorized login ID and password without which the system can not be accessed.</li>
-<li>Students can only access limited features, i.e., public access level features which include searching a book and student registration form.</li>
-<li>After logging in librarians can search for a specific book, book issue or student from the home panel.</li>
-<li>Librarians need to make an entry for new books. To automate the process they simply need to enter the number of issues, then the Issue ID for each book issue is generated automatically.</li>
-<li>Another responsibility of a librarian is to approve students in situations where approval is needed, i.e. where documents are to be verified or some manual work. Librarians have a panel to simply approve / reject students and to view all approved students. The librarian ID is stored alongside each approved/rejected student to keep track.</li>
-<li>The most important function of any library is to issue and return books. This system includes a panel to view all outstanding logs and a super simple panel to issue and return books for all librarians.</li>
-</Ul>
+A simple Library Management System built using HTML, CSS, JavaScript, PHP, and MySQL. This system allows users to log in, view available books, and manage transactions. It provides a basic framework that can be extended with additional features.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Database Structure](#database-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- 
+## Features
+
+- Librarians can be given their authorized login ID and password without which the system can not be accessed.
+- Students can only access limited features, i.e., public access level features which include searching a book and student registration form.
+- After logging in librarians can search for a specific book, book issue or student from the home panel.
+- Librarians need to make an entry for new books. To automate the process they simply need to enter the number of issues, then the Issue ID for each book issue is generated automatically.
+- Another responsibility of a librarian is to approve students in situations where approval is needed, i.e. where documents are to be verified or some manual work. Librarians have a panel to simply approve / reject students and to view all approved students. The librarian ID is stored alongside each approved/rejected student to keep track.
+- The most important function of any library is to issue and return books. This system includes a panel to view all outstanding logs and a super simple panel to issue and return books for all librarians.
+
+
+## Technologies Used
+
+- **Frontend**: 
+  - HTML
+  - CSS
+  - JavaScript
+- **Backend**: 
+  - PHP
+- **Database**: 
+  - MySQL
+
